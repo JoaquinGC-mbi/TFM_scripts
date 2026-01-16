@@ -4,4 +4,5 @@ Este repositorio incluye scripts divididos en las siguientes categorias:
 - MEDI: scripts para el lanzamiento empleados en el lanzamiento de la aplicación en el cluster de la UAM y para el analisis estadistico de los datos
 - Microbiota: Analisis del perfil microbiano en las muestras
 - Nutrición: Preparación y depuración de datos nutricionales obtenidos de cuestionarios dieteticos, analisis estadistico y calculo de indices nutricionales
+
 Tambien se incluye el script empleado para la creación de las tablas con datos descriptivos.
